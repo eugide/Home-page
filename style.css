@@ -1,0 +1,39 @@
+
+.container{
+    padding: 10px;
+    font-size: 30px;
+   
+
+    
+}
+h1{
+    font-size: 80px;
+}
+.Rivanchi{
+    color: #5bc9f5;
+}
+a{
+    font-size: 20px;  
+}
+i{
+    color: #5bc9f5;
+    border-radius: 10px;
+    font-size: 20px;
+   
+}
+
+img{
+   background: #5bc9f5;
+   border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+   
+   
+}
+.image{
+    position: absolute;
+    left: 540px;
+    bottom: 330px;
+}
+
